@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /app
-COPY * ./
+WORKDIR $HOME/src/
+ADD ./* $HOME/src/
 RUN npm install
 CMD ["node", "index.js"]
