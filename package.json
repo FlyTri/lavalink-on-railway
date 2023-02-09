@@ -1,0 +1,23 @@
+{
+  "name": "lavalink-on-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlyTri/lavalink-on-render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlyTri/lavalink-on-render/issues"
+  },
+  "homepage": "https://github.com/FlyTri/lavalink-on-render#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
