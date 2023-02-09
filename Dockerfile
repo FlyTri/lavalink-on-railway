@@ -1,5 +1,5 @@
 FROM openjdk:18-jdk
-FROM nodejs:16
+FROM node:16
 
 RUN npm install
 COPY * /app/
